@@ -1,1 +1,0 @@
-# Mindfullness activity data
