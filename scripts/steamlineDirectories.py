@@ -20,12 +20,12 @@ def searchForDirectories():
     arr = os.listdir( path )
 
     for x in arr:
-        newPath = x.split('-')[2]
+        newPath = path + '\\' + x.split('-')[2]
 
         outputOld = path + '\\' + x
         print(outputOld)
-
-        
+        print(newPath)
+        shutil.move(outputOld, newPath)
 
 
 if (__name__ == '__main__'):
