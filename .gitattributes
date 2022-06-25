@@ -4,7 +4,7 @@
 *.md diff=markdown
 *.zip filter=lfs diff=lfs merge=lfs -text
 
-*.fit -text -diff
+*.fit binary
 
     # Git attributes
 .gitignore text eol=lf
