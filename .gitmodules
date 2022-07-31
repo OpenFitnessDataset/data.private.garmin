@@ -1,3 +1,0 @@
-[submodule "packages/general_data"]
-	path = packages/general_data
-	url = https://github.com/KentVejrupMadsen/data.garmin.general.git
