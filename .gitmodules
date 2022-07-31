@@ -1,0 +1,6 @@
+[submodule "datasets/general"]
+	path = datasets/general
+	url = https://github.com/KentVejrupMadsen/data.garmin.general.git
+[submodule "datasets/activities"]
+	path = datasets/activities
+	url = https://github.com/KentVejrupMadsen/data.garmin.activities.git
