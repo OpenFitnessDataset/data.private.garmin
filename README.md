@@ -1,1 +1,1 @@
-# public-garmin-data
+# Public Garmin Data
