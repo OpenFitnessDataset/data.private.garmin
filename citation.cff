@@ -5,5 +5,8 @@ authors:
   given-names: Kent
 orcid: https://orcid.org/0009-0005-4996-362X
 title: Open Fitness Dataset | Entirety
+type: data
 version: V1.0_2022-06-12
+doi:
 date-released: 2022-06-12
+url: https://github.com/OpenFitnessArchive/OpenFitnessDataset.Entirety
