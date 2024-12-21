@@ -1,6 +1,0 @@
-[submodule ".modules/general"]
-	path = .modules/general
-	url = https://github.com/KentVejrupMadsen/data.garmin.general.git
-[submodule ".modules/activities"]
-	path = .modules/activities
-	url = https://github.com/KentVejrupMadsen/data.garmin.activities.git
