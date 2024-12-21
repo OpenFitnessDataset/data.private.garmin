@@ -10,5 +10,8 @@
 .gitignore text eol=lf
 .gitattributes text eol=lf
 
+.modules/* export-ignore
+scripts/* export-ignore
 /.github export-ignore
+
 CHANGELOG.md export-ignore
