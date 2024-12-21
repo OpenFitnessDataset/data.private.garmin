@@ -7,8 +7,9 @@
 *.fit binary
 
     # Git attributes
-.gitignore text eol=lf
-.gitattributes text eol=lf
+.gitignore text eol=lf export-ignore
+.gitattributes text eol=lf export-ignore
+.gitmodules text eol=lf export-ignore
 
 .modules/* export-ignore
 scripts/* export-ignore
